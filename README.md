@@ -4,14 +4,15 @@
 
 This project analyzes over **1.29 million banking transactions** to identify fraudulent activities using Python and AI-powered business insights.
 
-The project demonstrates the complete data analytics workflow including:
+The project demonstrates an end-to-end banking fraud analytics workflow including:
 
-- Data Cleaning
-- Feature Engineering
-- Business Analysis
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 - Data Visualization
-- AI Generated Business Report
-- GitHub Documentation
+- SQL-based Analytics
+- Power BI Dashboard Development
+- AI-Generated Business Report
+- GitHub Version Control
 
 ---
 
@@ -23,16 +24,18 @@ The project demonstrates the complete data analytics workflow including:
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- VS Code
+- SQL
+- Power BI
 - Git & GitHub
+- VS Code
 - Markdown
-- AI (ChatGPT)
+- ChatGPT (AI-assisted reporting)
 
 ---
 
@@ -78,6 +81,36 @@ The project includes:
 - Fraud by Gender
 - Transaction Amount Distribution
 
+## 📊 Project Visualizations
+
+### Fraud vs Non-Fraud Transactions
+
+![Fraud vs Non Fraud](07_Images/Fraud_vs_NonFraud.png)
+
+---
+
+### Top Fraud Categories
+
+![Top Fraud Categories](07_Images/Top_Fraud_Categories.png)
+
+---
+
+### Fraud by Gender
+
+![Fraud by Gender](07_Images/Fraud_by_Gender.png)
+
+---
+
+### Top Fraud States
+
+![Top Fraud States](07_Images/Top_Fraud_States.png)
+
+---
+
+### Transaction Amount Distribution
+
+![Transaction Amount Distribution](07_Images/Transaction_Amount_Distribution.png)
+
 ---
 
 # 🤖 AI Insights
@@ -92,20 +125,19 @@ AI-generated executive report includes:
 
 ---
 
-# 🚀 Future Scope
+## 🚀 Future Scope
 
-- Machine Learning Fraud Detection
-- Real-Time Fraud Prediction
-- SQL Analytics
+- Machine Learning Fraud Detection Models
+- Real-Time Fraud Prediction System
 - Interactive Power BI Dashboard
+- Customer Risk Scoring
+- Automated Fraud Alerts
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Ayushi Shukla**
-
 Aspiring Data Analyst
-
-GitHub:
-https://github.com/Ayushi714
+📧 Email: ayushishukla7898@gmail.com
+🔗 GitHub: https://github.com/Ayushi714
