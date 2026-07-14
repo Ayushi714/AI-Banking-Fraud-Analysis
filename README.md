@@ -134,6 +134,9 @@ AI-generated executive report includes:
 - Automated Fraud Alerts
 
 ---
+# 📊 Power BI Dashboard
+
+![Power BI Dashboard](07_Images/PowerBI_Dashboard.png)
 
 ## 👩‍💻 Author
 
