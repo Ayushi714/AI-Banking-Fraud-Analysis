@@ -1,1 +1,5 @@
-04_PowerBI/AI_Banking_Fraud_Dashboard.pbix
+# Ignore dataset
+01_Dataset/
+
+# Ignore Power BI files
+*.pbix
